@@ -1,2 +1,2 @@
 # ArcadiAPP
-App project for school stuff type sh
+App project for school stuff
